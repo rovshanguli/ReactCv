@@ -1,0 +1,39 @@
+
+   
+   .skill-section{
+    // display: flex;
+       margin-top: 25px;
+       margin-left: 25px;
+       .skill{
+        
+        
+        .skillname{
+            font-size: 30px;
+            color: white;
+            margin-top: 20px;
+        }
+    
+        .skil{
+            display: flex;
+            justify-content: space-between;
+           
+            margin-top: 15px;
+            
+             
+            .asp{
+               font-size: 15px;
+               color: white;
+            }
+            .end{
+               
+                justify-content: end;
+                text-align: end;
+            }
+          }
+       
+      
+       
+       
+        
+       }
+    }

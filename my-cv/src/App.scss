@@ -1,0 +1,74 @@
+
+.asgerphoto{
+    width: 70%;
+    height: 350px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    margin-left: 50px;
+    display: flex;
+    
+}
+
+.gree{
+    background-color:black;
+  
+}
+.name{
+  color: white;
+  margin-left: 50px;
+  font-size: 33px;
+}
+.job{
+    color: white;
+    margin-left: 50px;
+}
+i{
+    margin-left: 15px;
+}
+
+.reddiv{
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    margin-left: 3px;
+    border-radius: 30%;
+    position: relative;
+    .fas{
+        align-items: center;
+        color: white;
+        position: absolute;
+        top: 10px;
+        left: -8px;
+
+    }
+    .mail{
+        margin-left: 35px;
+        margin-top: -5px;
+    }
+    .num{
+        margin-top: -5px;
+    }
+   
+  
+}
+.phon{
+position: absolute;
+justify-content: center;
+}
+.num{
+    display:flex;
+    color: white;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.mail{
+    display:flex;
+    color: white;
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+
